@@ -39,7 +39,7 @@ This is a console-based Prompt Playground that lets users explore how different 
    ```
 3. Run the script:
    ```
-   python playground.py
+   python main.py
    ```
 
 ## 📋 Output Table Example (Partial
